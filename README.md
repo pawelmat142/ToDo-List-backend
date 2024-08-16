@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
- This app is available here: [To-Do](https://todo.pppmmm.pl/) <br />
+ This app is available here: [To-Do](http://77.237.244.101:8002/) <br />
  
  This project is a typical to-do list. I have enriched applications with myself created drag and drop sorting option. <br />
  
